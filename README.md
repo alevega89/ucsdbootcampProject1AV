@@ -7,9 +7,9 @@ The files in this repository were used to configure the network depicted below
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YML file may be used to install only certain pieces of it, such as Filebeat.
 
-  ![Ansible/Install](https://github.com/alevega89/ucsdbootcampProject1AV/blob/main/Ansible/Install%20metric%20beat.yml)
-  ![Ansible/filebeat](https://github.com/alevega89/ucsdbootcampProject1AV/blob/main/Ansible/filebeat%20install.yml)
-  ![linux/elk] install.txt(https://github.com/alevega89/ucsdbootcampProject1AV/blob/main/linux/elk%20install.yml)
+  Metricbeat_install(https://github.com/alevega89/ucsdbootcampProject1AV/blob/main/Ansible/Install%20metric%20beat.yml)
+  Filebeat_install(https://github.com/alevega89/ucsdbootcampProject1AV/blob/main/Ansible/filebeat%20install.yml)
+  Elk_install(https://github.com/alevega89/ucsdbootcampProject1AV/blob/main/linux/elk%20install.yml)
   
 This document contains the following details:
 - Description of the Topologu
